@@ -80,7 +80,3 @@ little-agent/
 - **不要把 `.env` 提交到 Git** —— 它已被 `.gitignore` 排除
 - **不要硬编码 API Key 到代码里** —— 用环境变量
 - chroma_db/ 是自动生成的本地数据库，已被 `.gitignore` 排除
-
-## License
-
-MIT
